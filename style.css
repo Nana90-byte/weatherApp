@@ -1,0 +1,75 @@
+.navbar {
+    height: 80px;
+}
+
+.h1 {
+    font-size: 40px;
+}
+.searchBack {
+    height:700px;
+    background-color: lightgray;
+}
+
+.leftBody {
+    height:700px;
+    background-color: black;
+}
+
+.square {
+    height:50%;
+    width: 90%;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.five-day {
+color:white;
+position: relative;
+top: 450px;
+}
+
+#box1 {
+    height:170px;
+    width:90px;
+    background-color: royalblue;
+    position: relative;
+    top: 475px;
+    left: 50px;
+    border-radius: 15px;
+}
+#box2 {
+    height:170px;
+    background-color: royalblue;
+    position: relative;
+    left: 60px;
+    top: 475px;  
+    border-radius: 15px;      
+}
+#box3 {
+    height:170px;
+    background-color: royalblue;
+    position: relative;
+    top: 475px; 
+    left: 70px;
+    border-radius: 15px;
+}
+#box4 {
+    height:170px;
+    background-color: royalblue;
+    position: relative;
+    top: 475px; 
+    left: 80px;
+    border-radius: 15px;
+}
+#box5 {
+    height:170px;
+    background-color: royalblue;
+    position: relative;
+    top: 475px; 
+    left: 90px;
+    border-radius: 15px;
+}
+
+
+
